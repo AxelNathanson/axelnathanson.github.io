@@ -1,3 +1,25 @@
+--- Add an introduction ---
+
+
+E-mail: axel.nathanson(at)gmail.com
+
+
+## Master thesis
+I am currently writing my Master thesis for [Saab](https://www.saab.com/) on utilizing Deep Reinforcement Learning to optimise the management of radar resources while performing surveillance and tracking. The project includes the simulation and tracking of the targets as well as implementation of DRL - architectures. 
+
+I am writing my thesis alone but with the guidance of my supervisor [Adam Andersson](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), whose current research topic concerns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. 
+
+## Experience
+
+
+
+## Education
+
+
+
+## Most influential courses
+
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AxelNathanson/axelnathanson.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +57,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-->
