@@ -4,7 +4,7 @@ I will be graduating in June 2021, and am interested in pursuing a career within
 
 If you have any questions or want to come into contact with me, you can most easily reach me at my email:
 
-E-mail: axel.nathanson(at)gmail.com
+E-mail: axel.nathanson(at)gmail.com  
 [Linkedin](https://www.linkedin.com/in/axel-nathanson/)
 
 # Master thesis
