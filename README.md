@@ -25,8 +25,8 @@ I have implemented:
 
 ### Deep Learning basics
 After I attended an introductory course in Deep Learning, I wanted to create a model and all functions needed from scratch as an exercise. The course focused on Computer Vision, why I chose the most classic CV-task possible:
+* [Classification of the MNIST-dataset](https://github.com/AxelNathanson/pytorch-Kaggle-MNIST-Submission).
 
-[Classification of the MNIST-dataset](https://github.com/AxelNathanson/pytorch-Kaggle-MNIST-Submission).  
 The model created uses the most basic building blocks in Deep Learning for Computer Vision like CNN:s, Batch Norm-layers, Dropout-layers, Data Augmentation.
 
 
