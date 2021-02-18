@@ -30,24 +30,26 @@ During my time with the Vehicle Homologation and Compliance team, I was responsi
 ### Chalmers University of Technology, MSc in Mathematics
 **Program: Engineering mathematics and computational science, 2019-2021**
 
-
+My master programme extended my knowledge of mathematics and statistics while giving me the computational tools to use them. I have focused my studies within the fields of algorithms, statistics and machine learning. 
 
 ### Technische Universität München, Exchange
 **Faculty of Mathematics, 2019-2020**
+
+I was very fortunate to be able to visit the TUM right before Corona hit. During my stay, I took courses in German, statistics and Machine Learning. The courses that influenced me the most were "Deep Learning", with Prof. Niessner and "Machine Learning for Sequential Data and Graphs" given by Prof. Günnemann.
 
 ### Chalmers University of Technology, BSc in Physics
 **Program: Engineering Physics, 2016-2019**
 
 My undergraduate physics programme covered a broad range of subjects in physics, mathematics and engineering. The very diverse syllabus covers courses like quantum physics, complex analysis as well as algorithms and statistics.  
 
-For my bachelor thesis, I worked with the department of physics on "Simulating Many-Particle Systems on an Emulated Quantum Computer". I was responsible for a lot of the implementations on the emulated quantum computer, as well as the optimization performed in the study.
+For my bachelor thesis, I worked with the department of physics on [Simulating Many-Particle Systems on an Emulated Quantum Computer](https://odr.chalmers.se/handle/20.500.12380/300640) (in Swedish). I was responsible for a lot of the implementations on the emulated quantum computer, as well as the optimization performed in the study.
 
 ### Uppsala University
 **Law School, 2014-2015**
 
 I studied for three semesters at one of the top law school in Sweden. During my studies, I realised that I was more interested in mathematics and physics, but did take courses in:
 * Basic legal methods, state law and constitutional EU-law.
-* (Swedish) Civil Law: contract, labour, intellectual property and family law.
+* Civil Law: contract, labour, intellectual property and family law.
 
 
 <!---
