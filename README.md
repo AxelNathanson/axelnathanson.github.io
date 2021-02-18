@@ -9,13 +9,35 @@ I am currently writing my Master thesis for [Saab](https://www.saab.com/) on uti
 
 I am writing my thesis alone but with the guidance of my supervisor [Adam Andersson](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), whose current research topic concerns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. 
 
-## Experience
 
+## Engineering Experience
+
+### IRLAB Therapeutics AB, 
+**Project, Nov 2020 - Jan 2021**
+
+I was part of a group of students who worked with IRLAB and Smartr to model an unknown filtering algorithm. The algorithm is implemented in an old analyser-unit used to record the trajectories of rats during experimental trials. As part of the study, both known filtering algorithms like Kalman-filters and Splining-algorithms were evaluated as well as new ones created. As a result of the study, we could rule out several classic filtering algorithms while achieving the best results with the algorithms designed during the study.  
+
+My main responsibility was the statistical analysis of the trajectories, providing the basis for the algorithm design.
+
+### CEVT(China Euro Vehicle Technology)
+**Student Intern, Jun 2018 - Sep 2019**
+
+During my time with the Vehicle Homologation and Compliance team, I was responsible for the migration of all legal requirements into two new databases. One database for the internal review of the legal requirements, and one used to communicate them during projects. I also assisted in the mapping of new legal areas.
 
 
 ## Education
 
+### Chalmers University of Technology, MSc in Mathematics
+**Program: Engineering mathematics and computational science, 2019-2021**
 
+### Technische Universität München, Exchange
+**Faculty of Mathematics, 2019-2020**
+
+### Chalmers University of Technology, BSc in Physics
+**Program: Engineering Physics, 2016-2019**
+
+### Uppsala University
+**Law School, 2014-2015**
 
 ## Most influential courses
 
