@@ -7,14 +7,14 @@ If you have any questions or want to come into contact with me, you can most eas
 E-mail: axel.nathanson(at)gmail.com  
 [Linkedin](https://www.linkedin.com/in/axel-nathanson/)
 
-# Master thesis
+## Master thesis
 I am currently writing my Master thesis for [Saab](https://www.saab.com/) on utilizing Deep Reinforcement Learning to optimise the management of radar resources while performing surveillance and tracking. The project includes the simulation and tracking of the targets as well as implementation of DRL - architectures. 
 
 The system is modelled as a POMDP why recurrent architectures and the PPO-algorithm will be the initial focus. However, since the number of targets within the surveillance area varies over time techniques for handling varying input-size in DeepLearning will also be explored.
 
 I am writing my thesis alone but with the guidance of my supervisor [Adam Andersson](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), whose current research topic concerns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. 
 
-# Project examples
+## Project examples
 The reason I created this page was to be able to showcase the projects and exercises I have carried out. Both as part of my studies but also outside of school.
 
 ### Generative models
@@ -30,7 +30,7 @@ After I attended an introductory course in Deep Learning, I wanted to create a m
 The model created uses the most basic building blocks in Deep Learning for Computer Vision like CNN:s, Batch Norm-layers, Dropout-layers, Data Augmentation.
 
 
-# Education
+## Education
 
 ### Chalmers University of Technology, MSc in Mathematics
 **Engineering mathematics and computational science, 2019-2021**  
@@ -53,7 +53,7 @@ I studied for three semesters at one of the top law school in Sweden. During my 
 * Civil Law: contract, labour, intellectual property and family law.
 
 
-# Experience
+## Experience
 
 ### IRLAB Therapeutics AB
 **Project, Nov 2020 - Jan 2021**  
