@@ -18,7 +18,7 @@ I am writing my thesis alone but with the guidance of my supervisor [Adam Anders
 The reason I created this page was to be able to showcase the projects and exercises I have carried out. Both as part of my studies but also outside of school.
 
 ### Generative models
-One of the courses that have inspired me the most was a Machine Learning course I attended during my exchange at the [TUM](https://www.tum.de/en/). The course was called "Machine Learning for Graphs and Sequential Data" and covered several topics like Generative Models (Normalizing Flows,  VAE:s), Graph-NN:s, Robustness, Clustering and more. I found the generative models and robustness especially interesting why I have implemented two methods since the course ended.  
+One of the courses that have inspired me the most was a Machine Learning course I attended during my exchange at the [TUM](https://www.tum.de/en/). The course was called [Machine Learning for Graphs and Sequential Data](https://www.in.tum.de/en/daml/teaching/summer-term-2020/machine-learning-for-graphs-and-sequential-data/) and covered several topics like Generative Models (Normalizing Flows,  VAE:s), Graph-NN:s, Robustness, Clustering and more. I found the generative models and robustness especially interesting why I have implemented two methods since the course ended.  
 I have implemented:
 * [The RealNVP normalizing flow](https://github.com/AxelNathanson/pytorch-normalizing-flows)
 * [The Beta-VAE](https://github.com/AxelNathanson/pytorch-Variational-Autoencoder)
