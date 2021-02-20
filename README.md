@@ -1,9 +1,8 @@
 I am a master student at [Chalmers School of Technology](https://www.chalmers.se/sv/Sidor/default.aspx), specializing in machine learning and algorithms. I am currently writing my thesis on the use of reinforcement learning within the field of radar resource management.
 
-I will be graduating in June 2021, and am interested in pursuing a career within the field of Machine- and Deep Learning. 
+I will be graduating in June 2021, and am interested in pursuing a career within the field of Machine- and Deep Learning. I am especially interested in exploring how these techniques can be used within the field of medicine and Medtech.
 
-If you have any questions or want to come into contact with me, you can most easily reach me at my email:
-
+If you have any questions or want to get in touch with you can reach me at my email:  
 E-mail: axel.nathanson(at)gmail.com  
 [Linkedin](https://www.linkedin.com/in/axel-nathanson/)
 
@@ -15,13 +14,16 @@ The system is modelled as a POMDP why recurrent architectures and the PPO-algori
 I am writing my thesis alone but with the guidance of my supervisor [Adam Andersson](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx), whose current research topic concerns the use of deep learning to obtain accelerated and scalable algorithms for computationally challenging problems. 
 
 ## Project examples
-The reason I created this page was to be able to showcase the projects and exercises I have carried out. Both as part of my studies but also outside of school.
+I created this webpage to be able to showcase some of the projects I have carried out as part of courses, or in most cases, on my own time.
 
 ### Generative models
-One of the courses that have inspired me the most was a Machine Learning course I attended during my exchange at the [TUM](https://www.tum.de/en/). The course was called [Machine Learning for Graphs and Sequential Data](https://www.in.tum.de/en/daml/teaching/summer-term-2020/machine-learning-for-graphs-and-sequential-data/) and covered several topics like Generative Models (Normalizing Flows,  VAE:s), Graph-NN:s, Robustness, Clustering and more. I found the generative models and robustness especially interesting why I have implemented two methods since the course ended.  
-I have implemented:
-* [The RealNVP normalizing flow](https://github.com/AxelNathanson/pytorch-normalizing-flows)
+One of the courses that have inspired me the most was [Machine Learning for Graphs and Sequential Data](https://www.in.tum.de/en/daml/teaching/summer-term-2020/machine-learning-for-graphs-and-sequential-data/) that I took during my exchange at the [TUM](https://www.tum.de/en/). 
+The course covered a wide variety of topics, but I found the topics of Generative models and Robustness especially interesting. 
+
+As an exercise in implementing models from scientific papers, I have implemented two generative models since the course ended. 
+They can be found here:
 * [The Beta-VAE](https://github.com/AxelNathanson/pytorch-Variational-Autoencoder)
+* [The RealNVP normalizing flow](https://github.com/AxelNathanson/pytorch-normalizing-flows)
 
 ### Deep Learning basics
 After I attended an introductory course in Deep Learning, I wanted to create a model and all functions needed from scratch as an exercise. The course focused on Computer Vision, why I chose the most classic CV-task possible:
@@ -29,6 +31,10 @@ After I attended an introductory course in Deep Learning, I wanted to create a m
 
 The model created uses the most basic building blocks in Deep Learning for Computer Vision like CNN:s, Batch Norm-layers, Dropout-layers, Data Augmentation.
 
+### POMDP reading course
+
+
+#### TODO: I am currently cleaning up old repos, so more projects will shortly be added.
 
 ## Education
 
