@@ -32,7 +32,7 @@ After I attended an introductory course in Deep Learning, I wanted to create a m
 The model created uses the most basic building blocks in Deep Learning for Computer Vision like CNN:s, Batch Norm-layers, Dropout-layers, Data Augmentation.
 
 ### POMDP reading course
-During my final year of my masters, I performed an individual study of the field of POMDP:s as a preparation for my master thesis, guided by my master thesis [advisor](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx). During the study, I both reviewed methods for solving POMDP:s historically (and held a presentation for a doctorate course about it as examination) and explored Q-learning. I implemented a DQN, DRQN and ADRQN and trained them on the simple CartPole environment.
+During my final year of my masters, I performed an individual study of the field of POMDP:s as a preparation for my master thesis, together with my master thesis [advisor](https://www.chalmers.se/sv/personal/Sidor/adam-andersson.aspx). During the study, I both reviewed methods for solving POMDP:s historically (and held a presentation for a doctorate course about it as examination) and explored Q-learning. I implemented a DQN, DRQN and ADRQN and trained them on the simple CartPole environment.
 * [Results of my personal reading course gathered in a single repo.](https://github.com/AxelNathanson/POMDP)
 
 ## Education
