@@ -62,7 +62,8 @@ I studied for three semesters at one of the top law school in Sweden. During my 
 
 ### IRLAB Therapeutics AB
 **Project, Nov 2020 - Jan 2021**  
-I was part of a group of students who worked with IRLAB and Smartr to model an unknown filtering algorithm. The algorithm is implemented in an old analyser-unit used to record the trajectories of rats during experimental trials. As part of the study, both known filtering algorithms like Kalman-filters and Splining-algorithms were evaluated as well as new ones created. As a result of the study, we could rule out several classic filtering algorithms while achieving the best results with the algorithms designed during the study. My main responsibility was the statistical analysis of the trajectories, providing the basis for the algorithm design.
+I was part of a group of students who worked with IRLAB and Smartr to model an unknown filtering algorithm. The algorithm is implemented in an old analyser-unit used to record the trajectories of rats during experimental trials. As part of the study, both known filtering algorithms like Kalman-filters and Splining-algorithms were evaluated as well as new ones created. As a result of the study, we could rule out several classic filtering algorithms while achieving the best results with the algorithms designed during the study. My main responsibility was the statistical analysis of the trajectories, providing the basis for the algorithm design.  
+[Link to project description.](https://www.linkedin.com/posts/smartrai_in-a-series-of-three-we-have-presented-the-activity-6769563654493933568-i2uh)
 
 ### CEVT(China Euro Vehicle Technology)
 **Student Intern, Jun 2018 - Sep 2019**  
